@@ -1,0 +1,1 @@
+{ "name": "aurax-btc-aura", "version": "1.0.0", "private": true, "dependencies": { "next": "latest", "react": "latest", "react-dom": "latest", "tailwindcss": "latest" }, "devDependencies": { "typescript": "latest" } }
